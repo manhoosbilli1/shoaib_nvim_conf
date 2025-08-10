@@ -37,6 +37,8 @@ require('lazy').setup({
 
   require 'kickstart.plugins.tokyonight',
 
+  require 'kickstart.plugins.w3m',
+
   require 'kickstart.plugins.todo-comments',
 
   require 'kickstart.plugins.mini',
@@ -47,7 +49,7 @@ require('lazy').setup({
   require 'kickstart.plugins.harpoon',
   require 'kickstart.plugins.toggleterm',
   require 'kickstart.plugins.lazygit',
-  
+
   require 'kickstart.plugins.cmake_menu',
   require 'kickstart.plugins.undotree',
   -- The following comments only work if you have downloaded the kickstart repo, not just copy pasted the
@@ -96,4 +98,3 @@ require('lazy').setup({
     },
   },
 })
-

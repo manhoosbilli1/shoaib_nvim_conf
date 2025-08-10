@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/shoaib/Desktop/piston_engine",
+      "program": "/Users/shoaib/Desktop/piston_engine/build/Debug/outDebug"
+    }
+  ]
+}
